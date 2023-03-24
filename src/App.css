@@ -1,5 +1,14 @@
 .App {
-  text-align: center;
+text-align: center;
+background-image: url("https://img.freepik.com/premium-photo/futuristic-architectural-installation-many-cubes-spiraling-into-distance-white-background-3d-illustration-3d-rendering_594970-48.jpg?w=2000");
+position: fixed;
+min-width: 100%;
+min-height: 100%;
+background-size: cover;
+background-position: center;
+font-weight: 700;
+font-size: large;
+
 }
 
 .App-logo {
